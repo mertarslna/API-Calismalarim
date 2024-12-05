@@ -4,4 +4,6 @@ http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso
 
 https://reqres.in/api/user?page=2
 
-https://reqres.in/api/uses/3
+https://reqres.in/api/users/3
+
+https://reqres.in/api/users
